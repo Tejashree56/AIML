@@ -1,2 +1,2 @@
 # AIML
-Assigments of AIML
+Assigments of AIML week wise
